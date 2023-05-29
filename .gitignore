@@ -1,5 +1,6 @@
 # big files
 subtitles_raw/
+subtitles_ru_en_chunks/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
